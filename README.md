@@ -16,7 +16,7 @@ If you are interested in testing your code as you go, you can use `tests.js` as 
 
 Hi there,
 
-So here please watch the below video so that know how to use/run this project
+Please watch the below video in order to know how to use/run this project
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dWVkaa-pMlo/0.jpg)](https://www.youtube.com/watch?v=dWVkaa-pMlo)
 
