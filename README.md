@@ -20,9 +20,14 @@ Please watch the below video in order to know how to use/run the Weather Journal
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dWVkaa-pMlo/0.jpg)](https://www.youtube.com/watch?v=dWVkaa-pMlo)
 
+
+
 ---
 
 ## Review both the app.js and server.js file in order to understand how everything works.
+
+## Important:
+# Make sure to download and install the node.js from https://nodejs.org/en/ first, and then run the server.
 
 ---
 
