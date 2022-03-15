@@ -16,13 +16,13 @@ If you are interested in testing your code as you go, you can use `tests.js` as 
 
 Hi there,
 
-Please watch the below video in order to know how to use/run this project
+Please watch the below video in order to know how to use/run the Weather Journal App project
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dWVkaa-pMlo/0.jpg)](https://www.youtube.com/watch?v=dWVkaa-pMlo)
 
 ---
 
-## You can see the rest of the project in the app.js and server.js file.
+## Review both the app.js and server.js file in order to understand how everything works.
 
 ---
 
